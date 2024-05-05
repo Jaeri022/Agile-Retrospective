@@ -10,4 +10,4 @@ The good thing about the agile approach is that it is done in short sprints rath
 
 #What does it mean to be a good team member in software development?
 
-I feel being a team member not only meas beig able to accomplish the tasks needed to complete a project, but also help out other team members for any hinderences they may have and also ask for help whenever you yourself is stuck accomplishing a certain task. It also helps to put input into a project (especially during the planning stage) about any insecurities you may have before beginning to work.
+I feel being a team member not only means being able to accomplish the tasks needed to complete a project, but also help out other team members for any hinderences they may have and also ask for help whenever you yourself is stuck accomplishing a certain task. It also helps to put input into a project (especially during the planning stage) about any insecurities you may have before beginning to work.
